@@ -1,0 +1,24 @@
+Signature-Version: 1.0
+Created-By: 17.0.1 (Eclipse Adoptium)
+SHA-256-Digest-Manifest: I71UQqDUtLHX5HWKEoIt1Bcg+pparOdCkFWCHBl8Op4=
+SHA-256-Digest-Manifest-Main-Attributes: u1tIpc8v056FbOvzyOs2witnCdW7BWp
+ DTmeazcYq1Ko=
+
+Name: .eclipseproduct
+SHA-256-Digest: /g2GOQjobCOy2XyBng71nkz1TFvG0uktjv2wwTxxOXI=
+
+Name: readme.txt
+SHA-256-Digest: /gdltT6dKXro+Nojqh7a8FDfJ9VwMPdLYatD7JTFT+I=
+
+Name: licenses/dbeaver_license.txt
+SHA-256-Digest: e3uNMFA3dYG0Rh/VBvh2UFtCHWpoBqruhUp32kcU7SY=
+
+Name: licenses/jsch-license.txt
+SHA-256-Digest: JetAjWYVVsB2BKSGwS+KVmVntgjcLPZ71H2QSqlmXoc=
+
+Name: licenses/commons_license.txt
+SHA-256-Digest: +yCRD+y2Pu/tC26LGrrQs2ngRth733L/Q4cERT5ddCw=
+
+Name: licenses/eclipse_license.html
+SHA-256-Digest: hwtPjeriRQfIkOjxr2jI/ljsKqMf9Qv02lc2bCLxM9A=
+
